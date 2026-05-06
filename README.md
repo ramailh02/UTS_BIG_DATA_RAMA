@@ -1,4 +1,4 @@
-# UTS Big Data - Analisis Data & Pemodelan Berasaskan Jupyter Notebook
+# UTS Big Data - Analisis Data 
 
 [![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-Orange?style=flat-square&logo=Jupyter)](https://jupyter.org/ )
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
